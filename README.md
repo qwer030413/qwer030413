@@ -1,4 +1,4 @@
-## About Me
+## 🚀 About Me
 Junior at the University of California, San Diego majoring in computer science.
 
 <!--
