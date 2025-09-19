@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Junior at the University of California, San Diego majoring in computer science.
+Senior at the University of California, San Diego majoring in computer science.
 
 <!--
 **qwer030413/qwer030413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
